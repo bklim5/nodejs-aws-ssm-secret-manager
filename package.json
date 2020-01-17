@@ -1,0 +1,26 @@
+{
+  "name": "@bklim5/nodejs-aws-ssm-secret-manager",
+  "version": "1.0.0",
+  "description": "SecretManager class to retrieve secrets from AWS System Manager Parameter Store and store in memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bklim5/nodejs-aws-ssm-secret-manager.git"
+  },
+  "keywords": [
+    "AWS",
+    "SSM",
+    "Parameter Store",
+    "Secret",
+    "Secret Manager"
+  ],
+  "author": "BK Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bklim5/nodejs-aws-ssm-secret-manager/issues"
+  },
+  "homepage": "https://github.com/bklim5/nodejs-aws-ssm-secret-manager#readme"
+}
