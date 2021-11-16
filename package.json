@@ -25,7 +25,7 @@
   "homepage": "https://github.com/bklim5/nodejs-aws-ssm-secret-manager#readme",
   "dependencies": {
     "aws-param-store": "^3.2.0",
-    "aws-sdk": "^2.605.0",
+    "aws-sdk": "^2.814.0",
     "winston": "^3.2.1"
   }
 }
